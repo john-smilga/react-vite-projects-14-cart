@@ -10,7 +10,7 @@ import {
   DISPLAY_ITEMS,
 } from './actions';
 import { getTotals } from './utils';
-const url = 'https://course-api.com/react-useReducer-cart-project';
+const url = 'https://www.course-api.com/react-useReducer-cart-project';
 const AppContext = React.createContext();
 
 const initialState = {
